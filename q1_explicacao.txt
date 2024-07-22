@@ -1,0 +1,1 @@
+Explicação: Criei um servidor e um cliente para testar intergridade do arquivo atráves do UDP,com tamanho razoavel
